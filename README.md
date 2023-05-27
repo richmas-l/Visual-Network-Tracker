@@ -69,6 +69,6 @@ Results<br/>
   
 
 <h2>Resources & References</h2>
- - [Vinslov Academy](https://vinsloev.com/#/)
- - [GeoliteCity](https://mbcc2006/GeoLiteCity-data)
- - [Google Developers](https://developers.google.com/kml)
+ - [Vinslov Academy](https://vinsloev.com/#/)<br/>
+ - [GeoliteCity](https://mbcc2006/GeoLiteCity-data)<br/>
+ - [Google Developers](https://developers.google.com/kml)<br/>
